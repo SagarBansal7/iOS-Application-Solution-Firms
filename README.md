@@ -25,7 +25,7 @@ The Gaming category is the largest in our dataset in terms of number of applicat
 
 As expected, the Gaming category also sees the highest total number of ratings. This is, in part, driven by the sheer size of the category, containing the highest number of applications, thus is not a good indicator of app popularity or user downloads. When accounting for the number of applications in each category, it is evident that Gaming apps do not have the highest amount of users per single app and instead, the most popular app categories driving the largest amount of users appear to be Social Networking, Music, Shopping, Weather and Reference.
 
-The figure below highlights the total number of ratings in a category (bar chart ranking) against the amount of ratings per individual app in each category, highlighted by the shaded colors, with the darkest blue bars representing the categories with the largest number of ratings per app. For example, the ‘Games’ category has a total number of ratings of 52.9M with 13.7K ratings per app compared to Social Networking has a total number of ratings of 9.8M and 58.1K ratings per app.
+The figure below highlights the total number of ratings in a category (bar chart ranking) against the amount of ratings per individual app in each category, highlighted by the shaded colors, with the darkest blue bars representing the categories with the largest number of ratings per app. For example, the ‘Games’ category has a total number of ratings of 52.9M with 13.7K ratings per app compared to Social Networking has a total number of ratings of 9.8M and 58.1K ratings per app. 
 
 
 
