@@ -27,7 +27,8 @@ As expected, the Gaming category also sees the highest total number of ratings. 
 
 The figure below highlights the total number of ratings in a category (bar chart ranking) against the amount of ratings per individual app in each category, highlighted by the shaded colors, with the darkest blue bars representing the categories with the largest number of ratings per app. For example, the ‘Games’ category has a total number of ratings of 52.9M with 13.7K ratings per app compared to Social Networking has a total number of ratings of 9.8M and 58.1K ratings per app. 
 
+#### Figure 2 - Total Ratings by Category
 
-
+![Image 1](https://user-images.githubusercontent.com/37155988/92641205-6cb02000-f2ac-11ea-85ec-06b45a92d947.png)
 
 
