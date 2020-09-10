@@ -77,7 +77,7 @@ Social media continues to be one of the most engaging mobile app categories, as 
 
 Conversely, while expensive apps drive less users, practical and need-based apps in the Medical and Education fields can be priced very high, as digitization in these industries grows over time. Visual marketing continues to be an important driver of demand. However, app developers must study the current mobile app environment closely to find strategies to compete with existing top performing apps and engage users through various forms of marketing and advertising outside of the app store. Word of mouth and peer groups as well as trusted influencers continue to bear significant weight in driving awareness.
 
-This dataset, while limited, provides insights about the macro-drivers of app usage and emphasize the key foundations of a successful app. However, the app ecosystem is constantly evolving and additional data is needed to understand the ways in which users engage with apps in order to design or change mobile app development strategies accordingly
+This dataset, while limited, provides insights about the macro-drivers of app usage and emphasize the key foundations of a successful app. However, the app ecosystem is constantly evolving and additional data is needed to understand the ways in which users engage with apps in order to design or change mobile app development strategies accordingly.
 
 ### References
 
