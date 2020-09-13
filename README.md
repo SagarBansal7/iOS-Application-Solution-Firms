@@ -48,6 +48,7 @@ While Social Networking apps have the second lowest average price ($0.03), corre
 
 #### Figure 4 Ratings per application vs Prime Genre
 
+![abc](https://user-images.githubusercontent.com/37155988/93030375-9c369380-f5f0-11ea-82b8-603f3d2a557b.png)
 ![Image4](https://user-images.githubusercontent.com/37155988/92641613-04157300-f2ad-11ea-8fcf-8f74bc89f9bf.png)
 
 <div align="center">(Here, x-axis represents the prime genre, y-axis represents the weighted average of ratings per application, and color varies by the average of price per application (Red being the lowest and Blue being the highest value).)</div>
