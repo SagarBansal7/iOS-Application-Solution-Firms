@@ -48,7 +48,6 @@ While Social Networking apps have the second lowest average price ($0.03), corre
 #### Figure 4 Bubble Chart for Ratings per app and Average Price per app 
 
 ![abc](https://user-images.githubusercontent.com/37155988/93030375-9c369380-f5f0-11ea-82b8-603f3d2a557b.png)
-![Image4](https://user-images.githubusercontent.com/37155988/92641613-04157300-f2ad-11ea-8fcf-8f74bc89f9bf.png)
 
 <div align="center">(Here, each circle represents an app category, size represents the average price per app (small circle being cheaper and large circle being costlier), and color varies by the weighted average of ratings per application (Bright Yellow being the lowest and Deep Purple being the highest value).)</div>
 
