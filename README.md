@@ -70,7 +70,7 @@ Under the assumption that most users rate their apps within a few months since d
 
 ![Image5](https://user-images.githubusercontent.com/37155988/92641516-e0522d00-f2ac-11ea-95d2-724a945a707a.png)
 
-<div align="center">(Here, x-axis represents the number of applications, y-axis represents the prime genre, and color varies by the ratio of ratings of current version over Total Ratings (Red being the lowest and Blue being the highest value).)</div>
+<div align="center">(Here, x-axis represents the number of applications, y-axis represents the prime genre, and color varies by the ratio of ratings of current version over total ratings (Red being the lowest and Blue being the highest value).)</div>
 
 ### Recommendations
 
@@ -92,8 +92,8 @@ This dataset, while limited, provides insights about the macro-drivers of app us
 
 ### References
 
-Glauninger, Silke (October 2017). Why Ratings and Reviews Matter in App Store Optimization. Medium. Retrieved from: https://medium.com/app-radar-highlights/why-ratings-andreviews-matter-in-app-store-optimization-5c93d285f029
-Nicas, Jack. Collins, Keith (September 2019). How Apple's Apps Topped Rivals in the App Store It Controls. The New York Times. Retrieved from: https://www.nytimes.com/interactive/2019/09/09/technology/apple-app-storecompetition.html
-Ramanathan. (2017). Mobile App Store (7200 apps). Retrieved December 7, 2019, from Kaggle.com website: https://www.kaggle.com/ramamet4/app-store-apple-data-set-10kapps/discussion 
-Categories and Discoverability - App Store - Apple Developer. (2019). Retrieved from Apple Developer website: https://developer.apple.com/app-store/categories/
-AppleInsider. (2017, October 4). Apple pulls Catalogs category from App Store, Dice & Educational subcategories under Games. Retrieved December 8, 2019, from AppleInsider website: https://appleinsider.com/articles/17/10/04/apple-pulls-catalogs-category-fromapp-store-dice-educational-subcategories-under-games
+* Glauninger, Silke (October 2017). Why Ratings and Reviews Matter in App Store Optimization. Medium. Retrieved from: https://medium.com/app-radar-highlights/why-ratings-andreviews-matter-in-app-store-optimization-5c93d285f029
+* Nicas, Jack. Collins, Keith (September 2019). How Apple's Apps Topped Rivals in the App Store It Controls. The New York Times. Retrieved from: https://www.nytimes.com/interactive/2019/09/09/technology/apple-app-storecompetition.html
+* Ramanathan. (2017). Mobile App Store (7200 apps). Retrieved December 7, 2019, from Kaggle.com website: https://www.kaggle.com/ramamet4/app-store-apple-data-set-10kapps/discussion 
+* Categories and Discoverability - App Store - Apple Developer. (2019). Retrieved from Apple Developer website: https://developer.apple.com/app-store/categories/
+* AppleInsider. (2017, October 4). Apple pulls Catalogs category from App Store, Dice & Educational subcategories under Games. Retrieved December 8, 2019, from AppleInsider website: https://appleinsider.com/articles/17/10/04/apple-pulls-catalogs-category-fromapp-store-dice-educational-subcategories-under-games
