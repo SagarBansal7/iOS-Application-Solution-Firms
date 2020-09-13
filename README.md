@@ -25,26 +25,31 @@ As expected, the Gaming category also sees the highest total number of ratings. 
 
 The figure below highlights the total number of ratings in a category (bar chart ranking) against the amount of ratings per individual app in each category, highlighted by the shaded colors, with the darkest blue bars representing the categories with the largest number of ratings per app. For example, the ‘Games’ category has a total number of ratings of 52.9M with 13.7K ratings per app compared to Social Networking has a total number of ratings of 9.8M and 58.1K ratings per app. 
 
-#### Figure 2 - Total Ratings by Category
+#### Figure 2 - Prime Genre vs Total Ratings Count
 
 ![Image 1](https://user-images.githubusercontent.com/37155988/92641205-6cb02000-f2ac-11ea-85ec-06b45a92d947.png)
 
-<div align="center">(Here, x-axis represents the total of rating count, y-axis represents the Prime Genre, and color varies by the weighted average of ratings per application (app).)</div>
+<div align="center">(Here, x-axis represents the total of rating count, y-axis represents the prime genre, and color varies by the weighted average of ratings per application/app (White being the lowest and Dark Blue being the highest).)</div>
+
 #### App Pricing 
 
 Pricing plays a significant role in driving app users. Free applications appear to drive more app usage compared to non-free applications across all categories. While $0 applications represent most in our sample, they also drive the highest usage as indicated by the number of ratings per individual application in the ‘free’ app segment. Figure 3 showcases the general trend between the price and inferred number of downloads irrespective of the categories. We represented the variation in ratings per app using the blue-orange color scale, while the size of the bar represents the absolute number of ratings. Low ratings per app are colored in dark orange, while high ratings per app are represented in dark blue. The largest number of apps have a price set to zero and highest ratings/app of 17,832.
 
 Conversely, 621 apps with $1 price have a ratings/app of 3,812, 683 apps with $2 price have a ratings/app of 2,806, 277 apps with $3 price have a ratings/app of 1,661, 394 apps with $4 price have a ratings/app of 3,242 and 166 apps with $6 price have a ratings/app of 5,548. All other price values have app count of less than 100. For non-free applications, there is no apparent relationship between price and app usage, as there are a sizeable number of paid apps with high number of users.
 
-#### Figure 3 - App Price vs Number of Ratings 
+#### Figure 3 - Number of Applications vs Price  
 
 ![image 6](https://user-images.githubusercontent.com/37155988/92641458-c44e8b80-f2ac-11ea-9875-9a01cd77ab43.png)
 
+<div align="center">(Here, x-axis represents the price in USD, y-axis represents the number of applications with that price, and color varies by the weighted average of ratings per application/app (Red being the lowest and Blue being the highest).)</div>
+
 While Social Networking apps have the second lowest average price ($0.03), corresponding to the highest number of inferred users (ratings per app ratio of ~58K) there are also a number of paid apps that are in the top 5 categories by app usage. Particularly, the Reference and Music categories have the third ($4.837) and fourth ($4.835) highest average price per app and they also have the third (22,411) and second (28,842) maximum number of downloads, suggesting that customers are willing to pay a higher price for Music apps, as well as for practical applications such as the ones in the Reference categories. (See Figure 4 below)
 
-#### Figure 4 Ratings by Category vs Average Price
+#### Figure 4 Ratings per application vs Prime Genre
 
 ![Image4](https://user-images.githubusercontent.com/37155988/92641613-04157300-f2ad-11ea-8fcf-8f74bc89f9bf.png)
+
+<div align="center">(Here, x-axis represents the prime genre, y-axis represents the ratings per application, and color varies by the weighted average of price per application/app (Red being the lowest and Blue being the highest).)</div>
 
 #### Visual Marketing of the Apps
 
@@ -54,6 +59,8 @@ We examined the effect of the number of screenshots on the number of ratings for
 
 ![Image3](https://user-images.githubusercontent.com/37155988/92641670-142d5280-f2ad-11ea-8522-f7a26023bf1f.png)
 
+<div align="center">(Here in each graph, x-axis represents the number of screenshots, y-axis represents the number of applications, and color varies by the weighted average of ratings per application/app (Red being the lowest and Blue being the highest).)</div>
+
 #### Category Growth Potential
 
 Under the assumption that most users rate their apps within a few months since download, we calculated the ratio of the number of ratings for the most recent version of the app to the total number of ratings (please refer to the Methodology section for details on the assumptions). A higher ratio indicates that the application or category is continuing to grow its user base, thus representing potential for future investment. App categories such as Utilities (0.11), Lifestyle (0.1156) and Education (0.10) show the highest user growth ratio. However, these categories are generally relatively new to the mobile app ecosystem, therefore they likely have only one version, which they never updated, or they just launched, driving a high percent of ratings on the newest version. Excluding these categories, the highest growth genres are Games, Reference, Weather, Shopping, Photos and Videos. Note that Reference, Weather and Shopping are also among the top 5 by app usage, solidifying the recommendation that they are prioritized by app developers.
@@ -61,6 +68,8 @@ Under the assumption that most users rate their apps within a few months since d
 #### Figure 6 Rating per App. (Color: Ratio of Ratings of Current Version over Total Ratings)
 
 ![Image5](https://user-images.githubusercontent.com/37155988/92641516-e0522d00-f2ac-11ea-95d2-724a945a707a.png)
+
+<div align="center">(Here, x-axis represents the number of application, y-axis represents the prime genre, and color varies by the ratio of ratings of current version over Total Ratings (Red being the lowest and Blue being the highest).)</div>
 
 ### Recommendations
 
