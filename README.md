@@ -29,7 +29,7 @@ The figure below highlights the total number of ratings in a category (bar chart
 
 ![Image 1](https://user-images.githubusercontent.com/37155988/92641205-6cb02000-f2ac-11ea-85ec-06b45a92d947.png)
 
-<div align="center">(Here, x-axis represents the total of rating count, y-axis represents the prime genre, and color varies by the weighted average of ratings per application/app (White being the lowest and Deep Blue being the highest value).)</div>
+<div align="center">(Here, x-axis represents the total of rating count, y-axis represents the prime genre, and color varies by the weighted average of ratings per application/app (white being the lowest and deep blue being the highest value).)</div>
 
 #### App Pricing 
 
@@ -41,7 +41,7 @@ Conversely, 621 apps with $1 price have a ratings/app of 3,812, 683 apps with $2
 
 ![image 6](https://user-images.githubusercontent.com/37155988/92641458-c44e8b80-f2ac-11ea-9875-9a01cd77ab43.png)
 
-<div align="center">(Here, x-axis represents the price in USD, y-axis represents the number of applications, and color varies by the weighted average of ratings per application (Deep Red being the lowest and Deep Blue being the highest value).)</div>
+<div align="center">(Here, x-axis represents the price in USD, y-axis represents the number of applications, and color varies by the weighted average of ratings per application (deep red being the lowest and deep blue being the highest value).)</div>
 
 While Social Networking apps have the second lowest average price ($0.03), corresponding to the highest number of inferred users (ratings per app ratio of ~58K) there are also a number of paid apps that are in the top 5 categories by app usage. Particularly, the Reference and Music categories have the third ($4.837) and fourth ($4.835) highest average price per app and they also have the third (22,411) and second (28,842) maximum number of downloads, suggesting that customers are willing to pay a higher price for Music apps, as well as for practical applications such as the ones in the Reference categories. (See Figure 4 below)
 
@@ -49,7 +49,7 @@ While Social Networking apps have the second lowest average price ($0.03), corre
 
 ![abc](https://user-images.githubusercontent.com/37155988/93030375-9c369380-f5f0-11ea-82b8-603f3d2a557b.png)
 
-<div align="center">(Here, each circle represents an app category, size represents the average price per app (small circle being cheaper and large circle being costlier), and color varies by the weighted average of ratings per application (Bright Yellow being the lowest and Deep Purple being the highest value).)</div>
+<div align="center">(Here, each circle represents an app category, size represents the average price per app (small circle being cheaper and large circle being costlier), and color varies by the weighted average of ratings per application (bright yellow being the lowest and deep purple being the highest value).)</div>
 
 #### Visual Marketing of the Apps
 
@@ -59,7 +59,7 @@ We examined the effect of the number of screenshots on the number of ratings for
 
 ![Image3](https://user-images.githubusercontent.com/37155988/92641670-142d5280-f2ad-11ea-8522-f7a26023bf1f.png)
 
-<div align="center">(Here in each graph, x-axis represents the number of screenshots, y-axis represents the number of applications, and color varies by the weighted average of ratings per application (Deep Red being the lowest and Deep Blue being the highest value).)</div>
+<div align="center">(Here in each graph, x-axis represents the number of screenshots, y-axis represents the number of applications, and color varies by the weighted average of ratings per application (deep red being the lowest and deep blue being the highest value).)</div>
 
 #### Category Growth Potential
 
@@ -69,7 +69,7 @@ Under the assumption that most users rate their apps within a few months since d
 
 ![Image5](https://user-images.githubusercontent.com/37155988/92641516-e0522d00-f2ac-11ea-95d2-724a945a707a.png)
 
-<div align="center">(Here, x-axis represents the number of applications, y-axis represents the prime genre, and color varies by the ratio of ratings of current version over total ratings (Deep Red being the lowest and Deep Blue being the highest value).)</div>
+<div align="center">(Here, x-axis represents the number of applications, y-axis represents the prime genre, and color varies by the ratio of ratings of current version over total ratings (deep red being the lowest and deep blue being the highest value).)</div>
 
 ### Recommendations
 
