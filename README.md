@@ -29,7 +29,7 @@ The figure below highlights the total number of ratings in a category (bar chart
 
 ![Image 1](https://user-images.githubusercontent.com/37155988/92641205-6cb02000-f2ac-11ea-85ec-06b45a92d947.png)
 
-        ** (Here are the  
+#####        (Here, x-axis represents the total of rating count, y-axis represents the Prime Genre, and color varies by the weighted average of ratings per application (app). 
 #### App Pricing 
 
 Pricing plays a significant role in driving app users. Free applications appear to drive more app usage compared to non-free applications across all categories. While $0 applications represent most in our sample, they also drive the highest usage as indicated by the number of ratings per individual application in the ‘free’ app segment. Figure 3 showcases the general trend between the price and inferred number of downloads irrespective of the categories. We represented the variation in ratings per app using the blue-orange color scale, while the size of the bar represents the absolute number of ratings. Low ratings per app are colored in dark orange, while high ratings per app are represented in dark blue. The largest number of apps have a price set to zero and highest ratings/app of 17,832.
